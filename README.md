@@ -1,4 +1,4 @@
-<<h1 align="center">Hello 👋, I'm Fadwa Marzouk !</h1>
+<h1 align="center">Hello 👋, I'm Fadwa Marzouk !</h1>
 <h3 align="center">A highly motivated Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwamrzk&label=Profile%20views&color=0e75b6&style=flat" alt="fadwamrzk" /> </p>
