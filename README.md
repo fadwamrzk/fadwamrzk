@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fadwamrzk](https://github.com/fadwamrzk)
 
-- 📫 How to reach me **fadoua.marzouk@etudiant-enit.utm.tn**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/fadwa-marzouk/](https://www.linkedin.com/in/fadwa-marzouk/)
 
 <h3 align="left">Connect with me:</h3>
