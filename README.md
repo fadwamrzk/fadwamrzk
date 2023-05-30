@@ -8,13 +8,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/fadwamrzk](https://github.com/fadwamrzk)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fadwa-marzouk/](https://www.linkedin.com/in/fadwa-marzouk/)
-- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+And+DevOps+Enthusiast;Computer++Science+Engineer)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fadwa-marzouk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadwa-marzouk" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadwa-marzouk" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
