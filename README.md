@@ -12,18 +12,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+And+DevOps+Enthusiast;Computer++Science+Engineer)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me</h3>
-<p align="left">
 
-
-[<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>]
-(https://www.linkedin.com/in/fadwa-marzouk/) 
+[<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>(https://www.linkedin.com/in/fadwa-marzouk/) 
 
 [<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>]
 (https://www.facebook.com/fadwa.marzouk.92/) 
 
 [<img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>]
 (mailto:marzoukfadwa2@gmail.com) 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
