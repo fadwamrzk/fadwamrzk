@@ -27,13 +27,15 @@
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-c-sharp-logo-2.svg" />
   
-   <img width="60" height="60" alt="azure" src="./icons/icons8-java.svg" />
-   <img width="60" height="60" alt="azure" src="./icons/icons8-kotlin.svg" />
+  <img width="60" height="60" alt="azure" src="./icons/icons8-java.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/icons8-kotlin.svg" />
 
   <img width="60" height="60" alt="azure" src="./icons/html5-original-wordmark.svg" />
    
-    <img width="60" height="60" alt="azure" src="./icons/css3-original-wordmark.svg" />
-       <img width="60" height="60" alt="azure" src="./icons/icons8-javascript.svg" />
+  <img width="60" height="60" alt="azure" src="./icons/css3-original-wordmark.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/icons8-javascript.svg" />
   
   
   
