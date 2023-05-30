@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Fadwa Marzouk !</h1>
+<h1 align="left">About Me </h1>
 
-
+<h1 align="center">Hello 👋,</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwamrzk&label=Profile%20views&color=0e75b6&style=flat" alt="fadwamrzk" /> </p>
 <p>I'm Marzouk Fadoua, A second-year engineering student majoring in Computer Science at the National
 Engineering School of Tunis
