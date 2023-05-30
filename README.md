@@ -34,8 +34,18 @@
   <img width="60" height="60" alt="azure" src="./icons/html5-original-wordmark.svg" />
    
   <img width="60" height="60" alt="azure" src="./icons/css3-original-wordmark.svg" />
+    
+  <img width="60" height="60" alt="azure" src="./icons/php-original.svg" />
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-javascript.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/gitlab-svgrepo-com.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/angular-svgrepo-com.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/icons8-spring-boot.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/ubuntu-svgrepo-com.svg" />
   
   
   
