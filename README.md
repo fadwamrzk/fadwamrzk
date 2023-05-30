@@ -3,7 +3,7 @@
 ### Hello 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwamrzk&label=Profile%20views&color=0e75b6&style=flat" alt="fadwamrzk" /> </p>
 <p>I'm Fadoua Marzouk , A second-year engineering student in Computer Science at the National
-Engineering School of Tunis
+Engineering School of Tunis.<br>
 A highly motivated student with a keen interest in Web development, cloud computing and various programming languages. <p>
 
 - I’m currently exploring **The world of DevOps**.
