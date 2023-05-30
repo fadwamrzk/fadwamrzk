@@ -17,10 +17,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
+  <div>
  
   <img width="60" height="60" alt="azure" src="./icons/azure.svg" />
-
+  </div>
+  
+     <div>
   <img width="60" height="60" alt="azure" src="./icons/icons8-c++.svg" />
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-c-programming.svg" />
@@ -30,7 +32,9 @@
   <img width="60" height="60" alt="azure" src="./icons/icons8-java.svg" />
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-kotlin.svg" />
-
+  </div>
+    
+        <div>
   <img width="60" height="60" alt="azure" src="./icons/html5-original-wordmark.svg" />
    
   <img width="60" height="60" alt="azure" src="./icons/css3-original-wordmark.svg" />
@@ -38,15 +42,21 @@
   <img width="60" height="60" alt="azure" src="./icons/php-original.svg" />
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-javascript.svg" />
-  
+    </div>
+          
+           <div>
   <img width="60" height="60" alt="azure" src="./icons/gitlab-svgrepo-com.svg" />
-  
+    </div>
+             
+              <div>
   <img width="60" height="60" alt="azure" src="./icons/angular-svgrepo-com.svg" />
   
   <img width="60" height="60" alt="azure" src="./icons/icons8-spring-boot.svg" />
-  
+    </div>
+                
+                 <div>
   <img width="60" height="60" alt="azure" src="./icons/ubuntu-svgrepo-com.svg" />
-  
+   </div>
   
   
 
