@@ -59,16 +59,6 @@
   
   
 
-    <img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="60" height="60"/>
-
-    <img alt="dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  width="60" height="60"/> 
-
-  
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
-
-  
-    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
 
 </p>
 
