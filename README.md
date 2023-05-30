@@ -1,13 +1,14 @@
 <h1 align="center">Hello 👋, I'm Fadwa Marzouk !</h1>
-<h3 align="center">A highly motivated Software Engineering Student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwamrzk&label=Profile%20views&color=0e75b6&style=flat" alt="fadwamrzk" /> </p>
+I'm Marzouk Fadoua, A second-year engineering student majoring in Computer Science at the National
+Engineering School of Tunis
+A highly motivated Computer Science engineering student with a keen interest in Web development, cloud computing and various programming languages. 
+I’m currently exploring **the world of DevOps**
 
-- 🔭 I’m currently exploring **the world of DevOps**
+🔭 I am open to all opportunities !
 
-- 👨‍💻 All of my projects are available at [https://github.com/fadwamrzk](https://github.com/fadwamrzk)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/fadwa-marzouk/](https://www.linkedin.com/in/fadwa-marzouk/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+And+DevOps+Enthusiast;Computer++Science+Engineer)](https://git.io/typing-svg)
 
