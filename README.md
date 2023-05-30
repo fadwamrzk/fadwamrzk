@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <a href="" target="_blank" rel="noreferrer"> 
   <img width="60" height="60" alt="azure" src="./icons/azure.svg" />
   </a>
   
@@ -54,8 +54,8 @@
   
   
  
-    <a href=""_blank" rel="noreferrer"> 
-    <img alt=" ubuntu" src="./icons/ubuntu-svgrepo-com.svg"  width="60" height="60"/>
+    <a href="" rel="noreferrer"> 
+    <img alt="ubuntu" src="./icons/ubuntu-svgrepo-com.svg"  width="60" height="60"/>
   </a>
 
   
