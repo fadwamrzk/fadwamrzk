@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fadwa-marzouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadwa-marzouk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fadwa-marzouk" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadwa-marzouk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,14 +48,14 @@
   
   
   
-   <a href="" rel="noreferrer"> 
+   <a href="" target="_blank" rel="noreferrer"> 
   <img width="60" height="60" alt="gitlab" src="./icons/gitlab-svgrepo-com.svg" />
   </a>
 
   
   
  
-    <a href="" rel="noreferrer"> 
+    <a href="" target="_blank" rel="noreferrer"> 
     <img alt="ubuntu" src="./icons/ubuntu-svgrepo-com.svg"  width="60" height="60"/>
   </a>
 
