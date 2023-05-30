@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-  <img width="60" height="60" alt="azure" src="./icons/icons8-azure.svg" />
+  <img width="60" height="60" alt="azure" src="./icons/azure.svg" />
   </a>
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
