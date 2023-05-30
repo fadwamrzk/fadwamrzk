@@ -20,9 +20,10 @@
   <a href="https://www.facebook.com/fadwa.marzouk.92/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png" alt="fadwa-marzouk" height="40" width="40" />
   </a>
-  
-  
 
+<a href="mailto:marzoukfadwa2@gmail.com" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png" alt="fadwa-marzouk" height="40" width="40" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
