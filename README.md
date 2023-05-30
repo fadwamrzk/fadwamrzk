@@ -5,8 +5,8 @@
 <p>I'm Marzouk Fadoua, A second-year engineering student majoring in Computer Science at the National
 Engineering School of Tunis
 A highly motivated Computer Science engineering student with a keen interest in Web development, cloud computing and various programming languages. <p>
-- I’m currently exploring **the world of DevOps**
 
+- I’m currently exploring **The world of DevOps**.
 🔭 I am open to all opportunities !
 
 
