@@ -1,10 +1,10 @@
 <h1 align="left">About Me </h1>
 
-<h1 align="left">Hello 👋,</h1>
+### Hello 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwamrzk&label=Profile%20views&color=0e75b6&style=flat" alt="fadwamrzk" /> </p>
-<p>I'm Marzouk Fadoua, A second-year engineering student majoring in Computer Science at the National
+<p>I'm Fadoua Marzouk , A second-year engineering student in Computer Science at the National
 Engineering School of Tunis
-A highly motivated Computer Science engineering student with a keen interest in Web development, cloud computing and various programming languages. <p>
+A highly motivated student with a keen interest in Web development, cloud computing and various programming languages. <p>
 
 - I’m currently exploring **The world of DevOps**.
   <br>
