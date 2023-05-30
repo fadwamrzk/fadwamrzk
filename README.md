@@ -21,39 +21,13 @@
  
   <img width="60" height="60" alt="azure" src="./icons/azure.svg" />
 
-    <img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="60" height="60"/> 
- 
-    <img alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="60"/> 
-
-    <img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="60" height="60"/>
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
- 
-    <img alt="kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="60" height="60"/> 
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+  <img width="60" height="60" alt="azure" src="./icons/icons8-c++.svg" />
   
-  <img width="60" height="60" alt="gitlab" src="./icons/gitlab-svgrepo-com.svg" />
- 
-    <img alt="ubuntu" src="./icons/ubuntu-svgrepo-com.svg"  width="60" height="60"/>
- 
-    <img alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="60" height="60"/>
+  <img width="60" height="60" alt="azure" src="./icons/icons8-c-programming.svg" />
+  
+  <img width="60" height="60" alt="azure" src="./icons/icons8-c-sharp-logo-2.svg" />
+  
    
-    <img alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"  width="60" height="60"/> 
-
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
- 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>*
-
-  
-  
-  
-    <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width="60" height="60"/>
-  
-    <img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="60" height="60"/> 
-  
-    <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  width="60" height="60"/> 
-
   
   
   
