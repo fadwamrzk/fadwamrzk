@@ -14,8 +14,9 @@ A highly motivated student with a keen interest in Web development, cloud comput
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+And+DevOps+Enthusiast;Computer++Science+Engineer)](https://git.io/typing-svg)
-
-<h3 align="left">Connect with me</h3>
+<br />
+  <br />
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 <a href="https://linkedin.com/in/fadwa-marzouk" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadwa-marzouk" height="30" width="40" />
   </a>
@@ -28,8 +29,10 @@ A highly motivated student with a keen interest in Web development, cloud comput
 <a href="mailto:marzoukfadwa2@gmail.com" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png" alt="fadwa-marzouk" height="40" width="40" />
 </a>
-
-<h3 align="left">Languages and Tools:</h3>
+<br />
+<br />
+<br />
+<h3 align="left">🛠 Skills </h3>
 <p align="left">
 
   <img width="60" height="60" alt="azure" src="./icons/azure.svg" />
@@ -61,5 +64,10 @@ A highly motivated student with a keen interest in Web development, cloud comput
   <img width="60" height="60" alt="azure" src="./icons/ubuntu-svgrepo-com.svg" />
 
 </p>
+<br />
+<br />
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadwamrzk&show_icons=true&locale=en&layout=compact" alt="fadwamrzk" /></p>
+
+
