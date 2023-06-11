@@ -10,7 +10,7 @@ A highly motivated student with a keen interest in Web development, cloud comput
   <br>
   
   
-🔭 I am open to all opportunities !
+🔭 Open to all opportunities !
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+And+DevOps+Enthusiast;Computer++Science+Engineer)](https://git.io/typing-svg)
